@@ -1,0 +1,45 @@
+
+
+.navigation{
+    width: 100%;
+    background-color: black;
+    height: 15vh;
+}
+
+.navigation p{
+    color: white;
+    text-align: center;
+}
+
+.navli{
+    color: blueviolet;
+    /* padding: 20px; */
+    list-style: none;
+    font-size: 30px;
+    
+}
+
+
+.navul{
+    display: flex;
+}
+
+.left{
+    width: 30%;
+    height: 70vh;
+    background-color: yellow;
+    font-size: 15px;
+    display: inline-block;
+}
+
+.right{
+    width: 30%;
+    height: 70vh;
+    background-color: yellow;
+    font-size: 15px;
+    float: right;
+    
+}
+
+
+

@@ -1,0 +1,30 @@
+
+.sub1{
+    border: 1px solid black;
+    height: 140px;
+    width: 33%;
+}
+
+.threediv1{
+    display: flex;
+}
+
+.threediv2{
+    display: flex;
+}
+
+.main{
+    border: 1px solid black;
+}
+
+#sub2{
+    width: 34%;
+}
+
+#sub3{
+    width: 34%;
+}
+
+/* ----------------------------------------q2 style----------------------------------- */
+
+
